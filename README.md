@@ -1,7 +1,13 @@
 # Stand-Em-Ups
 ## Contributors
 
-|[Ben Tsao](https://github.com/cbtsao47) |[Erica Chen](https://github.com/erica-y-chen)|[Mckay Wrigley](https://github.com/mckaywrigley45)  |  [Curtis Hubbard](https://github.com/chubbard022)   | [Taylor Blount](https://github.com/thirdeyeclub)      |
+|[Ben Tsao](https://github.com/cbtsao47) 
+|[Erica Chen](https://github.com/erica-y-chen)
+|[Mckay Wrigley](https://github.com/mckaywrigley45)  
+|  [Curtis Hubbard](https://github.com/chubbard022)  
+| [Taylor Blount](https://github.com/thirdeyeclub)    
+
+|
 | :-----------------------------------------------------------------------------------------------------------------------: 
 | :--------------------------------------------------------------------------------------------------------------------------------------:    
 | :---------------------------------------------------------------------------------------------------------------------------------------: 
@@ -13,18 +19,17 @@
 |[<img src="https://avatars0.githubusercontent.com/u/47537927?s=400&v=4" width = "200" />](https://github.com/erica-y-chen)   |[<img src="https://avatars3.githubusercontent.com/u/29221284?s=400&v=4" width = "200" />](https://github.com/mckaywrigley45) |[<img src="https://avatars2.githubusercontent.com/u/16605573?s=460&v=4" width = "200" />](https://github.com/chubbard022)  
 |[<img src="https://avatars2.githubusercontent.com/u/45549491?s=400&v=4" width="200"/>](https://github.com/thirdeyeclub)|
 
-| [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/cbtsao47)
-| [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/AAsriyan)                           
-| [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/mikaelacurrier)                        
-| [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/shaunmcarmody)                  
-| [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/shaunmcarmody)                    
 
 
 
 
+|[Ben Tsao](https://github.com/cbtsao47) 
+|[Erica Chen](https://github.com/erica-y-chen)
+|[Mckay Wrigley](https://github.com/mckaywrigley45)  
+|  [Curtis Hubbard](https://github.com/chubbard022)  
+| [Taylor Blount](https://github.com/thirdeyeclub)    
 
 
-|                                         [Erin Koen](https://github.com/erin-koen)                                         |                                              [Arshak Asriyan](https://github.com/AAsriyan)                                               |                                           [Mikaela Currier](https://github.com/mikaelacurrier)                                            |                                       [Shaun Carmody](https://github.com/shaunmcarmody)                                        |       |
 | :-----------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :---: |
 |  [<img src="https://avatars0.githubusercontent.com/u/46381469?s=400&v=4" width = "200" />](https://github.com/erin-koen)  |          [<img src="https://avatars3.githubusercontent.com/u/45574365?s=400&v=4" width = "200" />](https://github.com/AAsriyan)          |              [<img src="https://avatars0.githubusercontent.com/u/42783498?s=400&v=4" width = "200" />](https://github.com/)               |  [<img src="https://avatars3.githubusercontent.com/u/23500510?s=400&v=4" width = "200" />](https://github.com/mikaelacurrier)  |
 |                  [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/erin-koen)                   |                          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/AAsriyan)                           |                        [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/mikaelacurrier)                        |                   [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/shaunmcarmody)                   |
