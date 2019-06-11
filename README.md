@@ -8,7 +8,7 @@
 | :----------------------------------------------------------------------------------------------------------------------------: 
 | :---: 
 
-|
+
 |[<img src="https://avatars2.githubusercontent.com/u/16598376?s=400&v=4" width = "200" />](https://github.com/cbtsao47) 
 |[<img src="https://avatars0.githubusercontent.com/u/47537927?s=400&v=4" width = "200" />](https://github.com/erica-y-chen)   |[<img src="https://avatars3.githubusercontent.com/u/29221284?s=400&v=4" width = "200" />](https://github.com/mckaywrigley45) |[<img src="https://avatars2.githubusercontent.com/u/16605573?s=460&v=4" width = "200" />](https://github.com/chubbard022)  
 |[<img src="https://avatars2.githubusercontent.com/u/45549491?s=400&v=4" width="200"/>](https://github.com/thirdeyeclub)|
