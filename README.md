@@ -11,7 +11,7 @@
 | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/AAsriyan)                           
 | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/mikaelacurrier)                        
 | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/shaunmcarmody)                  
-| [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/shaunmcarmody)                    
+| [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/shaunmcarmody)      |               
 
 
 |[ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/erinkoen/) 
